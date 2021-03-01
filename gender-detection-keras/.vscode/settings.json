@@ -1,0 +1,4 @@
+{
+  "python.pythonPath": "/home/zaheer/anaconda3/envs/FYP-II/bin/python3",
+  "python.linting.pylintArgs": ["--generate-members"]
+}
